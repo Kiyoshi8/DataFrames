@@ -43,7 +43,7 @@ cyl
 # to extract a single entry
 mtcars
 
-mtcars[2,2]
+mtcars[4,4]
 # extracting a row
 mtcars[2,]
 # extracting a column
